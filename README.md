@@ -7,5 +7,6 @@ The battries are being charged at 8.2V 600mA. This can be changed by simply twea
 
 The battries used are Li-ion 3200 mAh thus to avoid all sorts of risks I have kept the voltage low.
 The estimated running time is 3-4 hours majorly depending on the routers model. 
+
 *Please note author is not responsible for any damages incurred due to the above design. Please use it with caution.*
 Thanks! Happy Hacking!

@@ -8,7 +8,7 @@ The battries are being charged at 8.2V 600mA. This can be changed by simply twea
 The battries used are Li-ion 3200 mAh thus to avoid all sorts of risks I have kept the voltage low.
 The estimated running time is 3-4 hours majorly depending on the routers model. 
 
-The Rev2.0 was a successful prototype and few of my friends and family memebers asked me to make a few more copies of the same but due to the global shortfall of semiconductors I couldn't get hands on the step up IC thus replicating wasn't possible. Also while soldering the the perious board I encountred several errors on the board, I had also learnt that I haven't 'tied' my grounds well and the analog ground routing was not incorrect. This is where I decided to resdesign the board with a new step up IC and covering all the various things I learnt. 
+The Rev2.0 was a successful prototype and few of my friends and family memebers asked me to make a few more copies of the same but due to the global shortfall of semiconductors I couldn't get hands on the step up IC thus replicating wasn't possible. This is where I decided to resdesign the board with a new step up IC and covering all the various designing errors present. 
 Thus the PCB Rev 3.0 has alot of edits.
 
 *Please note author is not responsible for any damages incurred due to the above design. Please use it with caution.*

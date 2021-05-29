@@ -9,7 +9,7 @@ The battries used are Li-ion 3200 mAh thus to avoid all sorts of risks I have ke
 The estimated running time is 3-4 hours majorly depending on the routers model. 
 
 The Rev2.0 was a successful prototype and few of my friends and family memebers asked me to make a few more copies of the same but due to the global shortfall of semiconductors I couldn't get hands on the step up IC thus replicating wasn't possible. This is where I decided to resdesign the board with a new step up IC and covering all the various designing errors present. 
-Thus the PCB Rev 3.0 has alot of edits.
+Thus the PCB Rev 3.0 has alot of edits. Also I haven't yet sent the board to the FAB house so beware.
 
 *Please note author is not responsible for any damages incurred due to the above design. Please use it with caution.*
 Thanks! Happy Hacking!

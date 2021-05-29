@@ -1,4 +1,4 @@
-# Power_bcp
+# UPS for Router
 Power back up for routers 12V@2A.
 
 Alot of people are facing sudden power cuts these days which ruins the flow of work from home.
